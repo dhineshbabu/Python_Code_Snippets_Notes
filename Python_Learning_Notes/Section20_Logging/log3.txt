@@ -1,0 +1,17 @@
+06/02/2020 11:26:25 PM: INFO: A new request arrived
+06/02/2020 11:26:31 PM: ERROR: division by zero
+Traceback (most recent call last):
+  File "<ipython-input-1-414e842c40b8>", line 11, in <module>
+    print('The result: ', x/y)
+ZeroDivisionError: division by zero
+06/02/2020 11:26:31 PM: INFO: A request processing completed
+06/02/2020 11:27:01 PM: INFO: A new request arrived
+06/02/2020 11:27:04 PM: ERROR: invalid literal for int() with base 10: 'fsdsd'
+Traceback (most recent call last):
+  File "<ipython-input-1-414e842c40b8>", line 10, in <module>
+    y = int(input("Enter Second Number: "))
+ValueError: invalid literal for int() with base 10: 'fsdsd'
+06/02/2020 11:27:04 PM: INFO: A request processing completed
+06/02/2020 11:27:32 PM: INFO: A new request arrived
+06/02/2020 11:29:09 PM: INFO: A new request arrived
+06/02/2020 11:29:12 PM: INFO: A request processing completed

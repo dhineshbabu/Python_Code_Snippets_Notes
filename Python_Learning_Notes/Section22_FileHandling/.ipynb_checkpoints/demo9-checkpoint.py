@@ -1,0 +1,1 @@
+print("This is from external python file")

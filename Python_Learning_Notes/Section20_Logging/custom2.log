@@ -1,0 +1,5 @@
+07/02/2020 06:26:52 PM:CRITICAL:demologger3:This is critical message
+07/02/2020 06:26:52 PM:ERROR:demologger3:This is error message
+07/02/2020 06:26:52 PM:WARNING:demologger3:This is warning message
+07/02/2020 06:26:52 PM:INFO:demologger3:This is info message
+07/02/2020 06:26:52 PM:DEBUG:demologger3:This is debug message

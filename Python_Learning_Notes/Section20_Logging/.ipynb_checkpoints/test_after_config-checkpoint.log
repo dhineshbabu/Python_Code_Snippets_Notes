@@ -1,0 +1,5 @@
+07/02/2020 07/15/52 PM:demologger:CRITICAL:This is critical message from test logger
+07/02/2020 07/15/52 PM:demologger:ERROR:This is error message from test logger
+07/02/2020 07/15/52 PM:demologger:WARNING:This is warning message from test logger
+07/02/2020 07/15/52 PM:demologger:INFO:This is info message from test logger
+07/02/2020 07/15/52 PM:demologger:DEBUG:This is debug message from test logger

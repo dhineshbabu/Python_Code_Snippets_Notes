@@ -1,0 +1,15 @@
+07/02/2020 06/56/36 PM:CRITICAL:logtest logger:This is critical message from test logger
+07/02/2020 06/56/36 PM:ERROR:logtest logger:This is error message from test logger
+07/02/2020 06/56/36 PM:WARNING:logtest logger:This is warning message from test logger
+07/02/2020 06/56/36 PM:INFO:logtest logger:This is info message from test logger
+07/02/2020 06/56/36 PM:DEBUG:logtest logger:This is debug message from test logger
+07/02/2020 06/57/00 PM:CRITICAL:logtest logger:This is critical message from test logger
+07/02/2020 06/57/00 PM:CRITICAL:logtest logger:This is critical message from test logger
+07/02/2020 06/57/00 PM:ERROR:logtest logger:This is error message from test logger
+07/02/2020 06/57/00 PM:ERROR:logtest logger:This is error message from test logger
+07/02/2020 06/57/00 PM:WARNING:logtest logger:This is warning message from test logger
+07/02/2020 06/57/00 PM:WARNING:logtest logger:This is warning message from test logger
+07/02/2020 06/57/00 PM:INFO:logtest logger:This is info message from test logger
+07/02/2020 06/57/00 PM:INFO:logtest logger:This is info message from test logger
+07/02/2020 06/57/00 PM:DEBUG:logtest logger:This is debug message from test logger
+07/02/2020 06/57/00 PM:DEBUG:logtest logger:This is debug message from test logger

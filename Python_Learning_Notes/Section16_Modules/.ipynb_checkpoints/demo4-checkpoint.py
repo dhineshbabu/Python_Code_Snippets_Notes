@@ -1,0 +1,1 @@
+print("Inside module file: ",__name__) # this will print __main__

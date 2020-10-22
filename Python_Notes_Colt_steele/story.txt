@@ -1,0 +1,4 @@
+sample text
+current line 2
+current line 3
+sample text again

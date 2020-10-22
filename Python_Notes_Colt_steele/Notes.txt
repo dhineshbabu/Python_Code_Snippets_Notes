@@ -1,0 +1,174 @@
+python3 readiness website to understand the difference betebetween pythono 2 and 3
+
+Two main types of numbers:
+Integer: 4 57 -10
+Floating point: 6.1, 1.333, 0.0
+
+>>> type(3434)
+<class 'int'>
+>>> type(3434.254)
+<class 'float'>
+>>> type(1+1.0)
+<class 'float'>
+>>> 1/2
+0.5
+>>> 1%2
+1
+
+Division returns float, even when dividing two ints
+>>> 2/1
+2.0
+
+Exponents operation
+>>> 2 ** 5
+32
+>>> 49**0.5
+7.0
+
+Integer Division (//) character
+>>> 5//2
+2
+>>> 6//7
+0
+
+Order of operation
+-------------------
+Parantheses
+Exponents
+Multiplication
+Division
+Addition
+Subtraction
+
+Comments will be added using # symbol
+
+
+ Variables can be assigned like this:
+>>> kanu,hasini,my = 1,2.3,5
+
+Variable naming restrictions:
+Must start with a letter or underscore
+Must contain letter, number or underscore
+Names are case sensitive
+
+Naming convensions:
+variable should be snake case (like snake_case).
+Most variables should be lowercase
+constnts should be UPPERCASE (like PI)
+Variables start with 2 underscore is private or left alone (__do__)
+
+Data types
+bool
+int
+str 
+list 
+dict
+
+Python is a dynamic typing language. Varaiables can be changed during run time
+
+"None" value in python:
+None is "nothing" in python
+
+>>> val = None
+>>> print(val)
+None
+>>> type(val)
+<class 'NoneType'>
+
+" or ' can be used for the strings
+>>> name = 'dhinesh"sdf'
+>>> name
+'dhinesh"sdf'
+
+Refer the python documentation for escape sequences
+
+String Concatenation:
+>>> 89+"89"
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+f" strings:
+>>> x= 10
+>>> sample = f"Hello, the number is {x}"
+>>> sample
+'Hello, the number is 10'
+>>> sample = f"Hello, the number is {x+5}"
+>>> sample
+'Hello, the number is 15'
+
+F" strings will be supported from Python 3.6  version or later
+
+String are indexed (lists) internally
+>>> name = "kanu"
+>>> name[0]
+'k'
+>>> name[5]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: string index out of range
+
+-1 index will start from the reverse (last character)
+>>> name[-1]
+'u'
+
+Type conversion:
+>>> decimal = 1.25
+>>> str(decimal)
+'1.25'
+>>> lists = [1,2,3]
+>>> str(lists)
+'[1, 2, 3]'
+>>> int(lists)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+>>> int_num = 2
+>>> float(2)
+2.0
+
+input() function prompt the user in the command line to enter the input  and will store it in a variable in string type
+
+Conditions:
+if elif else
+
+Truthiness:
+Empty strings, empty objects, None and Zero are false values
+
+>>> if 0:
+...     print("printing")
+... else:
+...     print("from")
+
+Logical operators:
+and
+or
+not
+
+>>> 5>3 and 5>1
+True
+
+is andn == operators:
+>>> a=1
+>>> a == 1
+True
+>>> a is 1
+True
+>>> a = [1,3,4]
+>>> b = [1,5,7]
+>>> a is b
+False  # this is for reference type checking
+== checks for value
+"is" checks for memory reference
+
+>>> a = [1,2]
+>>> b = [1,2]
+>>> a is b
+False
+
+Loops in python:
+We have "for" lpops and "while" loops in python
+range will always exclude the last value
+
+Loops in pythonWe have "for" loops and while loops in python
+

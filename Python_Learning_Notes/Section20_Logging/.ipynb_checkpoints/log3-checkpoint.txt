@@ -1,0 +1,7 @@
+06/02/2020 11:26:25 PM: INFO: A new request arrived
+06/02/2020 11:26:31 PM: ERROR: division by zero
+Traceback (most recent call last):
+  File "<ipython-input-1-414e842c40b8>", line 11, in <module>
+    print('The result: ', x/y)
+ZeroDivisionError: division by zero
+06/02/2020 11:26:31 PM: INFO: A request processing completed
