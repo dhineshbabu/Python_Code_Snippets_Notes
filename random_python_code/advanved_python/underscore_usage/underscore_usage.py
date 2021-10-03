@@ -20,3 +20,18 @@ print(f'Modified name : {p._name}')
 
 #__Before  (Double) -  Internal use only, avoid conflict in subclass
 # and tells python to rewrite the name (Mangling)
+p = Person()
+p.work()
+# p.__think() #AttributeError: 'Person' object has no attribute '__think'
+# c = Child()
+# c.testDouble() #AttributeError: 'Child' object has no attribute '_Child__think'
+
+# After (Any)
+# Helps and used in scenario where to avoid naming conflicts with key words
+class_ = Person()
+print(class_)
+
+# Before and After
+# These are all special in python like the init and main function
+p = Person()
+p.__call__()

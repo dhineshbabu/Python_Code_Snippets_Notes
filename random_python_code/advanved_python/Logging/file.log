@@ -1,0 +1,7 @@
+2021-10-03 14:33:43,332 - root - DEBUG - test log from pycharm
+2021-10-03 14:34:30,491 - root - DEBUG - test log from pycharm
+2021-10-03 14:34:30,492 - root - DEBUG - debug message here
+2021-10-03 14:34:30,492 - root - INFO - info message here
+2021-10-03 14:34:30,493 - root - WARNING - warn message here
+2021-10-03 14:34:30,493 - root - ERROR - error message here
+2021-10-03 14:34:30,493 - root - CRITICAL - critical message here
