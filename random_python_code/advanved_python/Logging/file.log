@@ -5,3 +5,9 @@
 2021-10-03 14:34:30,493 - root - WARNING - warn message here
 2021-10-03 14:34:30,493 - root - ERROR - error message here
 2021-10-03 14:34:30,493 - root - CRITICAL - critical message here
+2021-10-09 14:20:25,443 - root - DEBUG - test log from pycharm
+2021-10-09 14:20:25,443 - root - DEBUG - debug message here
+2021-10-09 14:20:25,443 - root - INFO - info message here
+2021-10-09 14:20:25,444 - root - WARNING - warn message here
+2021-10-09 14:20:25,444 - root - ERROR - error message here
+2021-10-09 14:20:25,444 - root - CRITICAL - critical message here
